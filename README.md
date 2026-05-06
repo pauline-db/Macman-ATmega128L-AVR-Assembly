@@ -8,6 +8,8 @@ The game runs on an 8×8 **WS2812B LED matrix**, uses an **LCD 2×16** to displa
 
 - Pauline De Baets & Stanislas Dupanloup
 
+## Date
+Spring 2025
 
 ## Project overview
 
