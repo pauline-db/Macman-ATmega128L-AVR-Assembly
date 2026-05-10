@@ -1,6 +1,6 @@
 # Pac-Man v2 — ATmega128L AVR Assembly
 
-A Pac-Man-inspired game developed in AVR Assembly for the **ATmega128L** microcontroller board as part of the Micro-210 course.
+A Pac-Man-inspired game developed in AVR Assembly for the **ATmega128L** microcontroller board.
 
 The game runs on an 8×8 **WS2812B LED matrix**, uses an **LCD 2×16** to display the menu and score, a **PS/2 keyboard** for menu navigation, push buttons for player movement, and the internal **EEPROM** to store high scores.
 
